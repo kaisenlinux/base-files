@@ -1,4 +1,4 @@
 Vendor: Kaisen
 Parent: Debian
-Vendor-URL: http://kaisen-linux.org/kaisen/
-Bugs: debbugs://gitlab.com/KaisenLinuxOS
+Vendor-URL: http://kaisen-linux.org/
+Bugs: debbugs://gitlab.com/kaisenlinux

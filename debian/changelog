@@ -1,3 +1,9 @@
+base-files (1:1.1) kaisen-devel; urgency=medium
+
+  * Update at Rolling 1.1
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>  Mon, 15 Jun 2020 02:10:43 +0200
+
 base-files (1:1.0+kaisen1) kaisen-devel; urgency=medium
 
   * First base-files package for Kaisen Linux rolling release
