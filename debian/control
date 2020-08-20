@@ -3,8 +3,8 @@ Section: admin
 Priority: required
 Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>
 Uploaders: Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>
-Standards-Version: 4.1.3
-Build-Depends: debhelper (>= 9)
+Standards-Version: 4.5.0
+Build-Depends: debhelper (>= 10)
 Vcs-Browser: https://gitlab.com/kaisenlinux/packages/base-files
 Vcs-Git: https://gitlab.com/kaisenlinux/packages/base-files.git
 

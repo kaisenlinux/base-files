@@ -1,3 +1,11 @@
+base-files (1:1.3) kaisen-devel; urgency=medium
+
+  * Update at Rolling 1.3
+  * Bump to 4.5.0 standards version
+  * Update compat to 11
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>  Thu, 20 Aug 2020 03:57:09 +0200
+
 base-files (1:1.2) kaisen-devel; urgency=medium
 
   * Update at Rolling 1.2
