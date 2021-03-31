@@ -1,10 +1,10 @@
-PRETTY_NAME="Kaisen #OSNAME# 1.5 (rolling)"
+PRETTY_NAME="Kaisen #OSNAME# 1.6 (rolling)"
 NAME="Kaisen #OSNAME#"
-VERSION_ID="1.5"
-VERSION="1.5 (rolling)"
+VERSION_ID="1.6"
+VERSION="1.6 (rolling)"
 VERSION_CODENAME=rolling
 ID=kaisen
 ID_LIKE=debian
-HOME_URL="https://kaisen-linux.org"
-SUPPORT_URL="support@kaisen-linux.org"
-BUG_REPORT_URL="https://gitlab.com/kaisenlinux"
+HOME_URL="https://kaisenlinux.org"
+SUPPORT_URL="https://forum.kaisenlinux.org"
+BUG_REPORT_URL="https://forum.kaisenlinux.org"
