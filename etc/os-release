@@ -1,7 +1,7 @@
-PRETTY_NAME="Kaisen #OSNAME# 1.6 (rolling)"
+PRETTY_NAME="Kaisen #OSNAME# 1.7 (rolling)"
 NAME="Kaisen #OSNAME#"
-VERSION_ID="1.6"
-VERSION="1.6 (rolling)"
+VERSION_ID="1.7"
+VERSION="1.7 (rolling)"
 VERSION_CODENAME=rolling
 ID=kaisen
 ID_LIKE=debian
