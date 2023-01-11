@@ -1,3 +1,9 @@
+base-files (1:2.2.1) kaisen-packages; urgency=medium
+
+  * Change the /etc/debian_version file in /etc/kaisen_version file
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Wed, 11 Jan 2023 20:32:07 +0100
+
 base-files (1:2.2) kaisen-packages; urgency=medium
 
   * Update for Rolling 2.2
